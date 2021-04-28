@@ -1,0 +1,55 @@
+body{
+    background:gold;
+}
+#heading{
+    font-family: 'Pacifico', cursive ;
+    color: gold;
+    margin-top: -10px;
+}
+.header_div img{
+width: 80px;
+}
+.header_div{
+    background: black;
+    height: 70px;
+}
+
+#camera{
+    border: 3px solid white;
+    width: 310px;
+    height: 310px;
+    box-shadow: 5px 1px 38px white;
+}
+.main_div button{
+    width: 300px;
+    margin-top: 320px;
+    box-shadow: 5px 5px 38px white;
+}
+
+#font{
+font-size: 25px;
+}
+
+.footer_div h4{
+    background: cadetblue;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+    margin-top: 60;
+}
+
+.footer_div img{
+    width: 50px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:orange;
+    line-height: 3;
+    text-align: center;
+}
+
+
